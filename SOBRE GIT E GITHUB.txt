@@ -1,0 +1,7 @@
+SOBRE GIT E GITHUB
+
+-GIT: sistema de versionamento
+https://git-scm.com/
+
+-GITHUB: rede social, plataforma para compartilhamento de código
+github.com
