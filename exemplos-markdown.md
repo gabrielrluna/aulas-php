@@ -47,3 +47,12 @@ console.log(aluno);
 - [] Briefing
 - [x] Rascunhos
 - [] Design
+
+## Tabelas
+Cliente | Idade | Cidade
+--- | --- | --- 
+Gabriel | 10 | São Paulo
+
+## Emoji
+
+::
